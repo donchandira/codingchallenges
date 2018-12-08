@@ -1,4 +1,4 @@
-package com.chandira.challenge;
+package src.com.chandira.challenge;
 
 public class MyImplement extends MyAbstract{
 

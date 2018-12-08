@@ -1,4 +1,4 @@
-package com.chandira.challenge;
+package src.com.chandira.challenge;
 
 abstract public class MyAbstract {
 	int i = 3;
